@@ -11,7 +11,7 @@ sections:
     section_id: intro
     type: section_content
     content: |
-      hey there lol
+      hey **there** lol \<!-- -->
     image: images/avatar.png
     image_alt: test
   - title: Recent Posts
