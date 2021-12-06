@@ -10,8 +10,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: |
-      hey **there** lol testing 123 testing <!-- -->
+    content: <!-- -->
     image: images/avatar.png
     image_alt: test
   - title: Recent Posts
